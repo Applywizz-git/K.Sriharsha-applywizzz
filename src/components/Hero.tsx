@@ -186,7 +186,7 @@ const Hero = () => {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src='public/profileimage2.png'
+                  src='/profileimage2.png'
                   alt="K SRIHARSHA - Data Engineer"
                   className="w-64 rounded-2xl justify-center shadow-2xl"
                 />
