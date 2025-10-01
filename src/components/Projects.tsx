@@ -956,7 +956,7 @@ const Projects = () => {
     {
       title: 'Real-Time Loan Analytics Platform',
       description: 'Azure Data Factory + Databricks + Synapse integration with Kafka streaming for sub-2s event analytics.',
-      image: 'public/loan_analytics.jpg',
+      image: '/loan_analytics.jpg',
       technologies: ['Azure Data Factory', 'Databricks', 'Synapse', 'Power BI'],
       metrics: ['40% faster decisions', 'Sub-2s analytics', '99% accuracy'],
       demoUrl: '#',
@@ -966,7 +966,7 @@ const Projects = () => {
     {
       title: 'Cloud Data Warehouse Migration',
       description: 'Complete migration from on-premises to cloud using AWS Glue, Lambda, S3, and EMR with SparkSQL optimization.',
-      image: 'public/datawarahouse.png',
+      image: '/datawarahouse.png',
       technologies: ['AWS Glue', 'Lambda', 'S3', 'EMR', 'SparkSQL'],
       metrics: ['35% faster ETL', '25% cost savings', '99.9% uptime'],
       demoUrl: '#',
@@ -976,7 +976,7 @@ const Projects = () => {
     {
       title: 'Enterprise Data Lake & Streaming',
       description: 'Comprehensive data lake solution with Spark + Hive pipelines, Airflow DAGs, and real-time Kafka streaming.',
-      image: 'public/Data-Lake.png',
+      image: '/Data-Lake.png',
       technologies: ['Apache Spark', 'Hive', 'Airflow', 'Python'],
       metrics: ['30% fewer errors', 'Real-time insights', 'Scalable architecture'],
       demoUrl: '#',
@@ -986,7 +986,7 @@ const Projects = () => {
     {
       title: 'Financial Analytics Dashboard',
       description: 'Interactive Power BI dashboards with automated ETL pipelines for financial reporting and operational insights.',
-      image: 'public/financial_analytics.png',
+      image: '/financial_analytics.png',
       technologies: ['Power BI', 'SQL Server', 'SSIS', 'Azure', 'Python'],
       metrics: ['30% faster reporting', '99% accuracy', 'Real-time updates'],
       demoUrl: '#',
