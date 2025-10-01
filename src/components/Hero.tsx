@@ -239,7 +239,7 @@
 import { motion } from 'framer-motion';
 import { ChevronDown, Download, Mail } from 'lucide-react';
 import { Link } from 'react-scroll';
-import heroPortrait from 'profileimage.png';
+// import heroPortrait from 'profileimage.png';
 
 const Hero = () => {
   const containerVariants = {
@@ -424,7 +424,7 @@ const Hero = () => {
                 transition={{ duration: 0.3 }}
               >
                 <img
-                  src='public/profileimage2.png'
+                  src='profileimage2.png'
                   alt="K SRIHARSHA - Data Engineer"
                   className="w-64 rounded-2xl justify-center shadow-2xl"
                 />
