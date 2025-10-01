@@ -239,7 +239,7 @@
 import { motion } from 'framer-motion';
 import { ChevronDown, Download, Mail } from 'lucide-react';
 import { Link } from 'react-scroll';
-// import heroPortrait from 'public/profileimage.png';
+import heroPortrait from 'public/profileimage.png';
 
 const Hero = () => {
   const containerVariants = {
